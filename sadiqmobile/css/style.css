@@ -1,0 +1,9 @@
+.sadik {
+	width: 350px;
+	height: 350px;
+	text-align: center;
+	display: inline-block;
+	/* float: left; */
+	margin: 0 auto;
+	margin-left: 400px;
+}
